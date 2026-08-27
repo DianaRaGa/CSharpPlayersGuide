@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C3B2-7B2D-4AAA-A0F6-4FB915DB788F}|Level_03\\CPG_L01_P019\\CPG_L01_P019.csproj|c:\\users\\diana\\source\\repos\\csharpplayersguide\\level_03\\cpg_l01_p019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5364C3B2-7B2D-4AAA-A0F6-4FB915DB788F}|Level_03\\CPG_L01_P019\\CPG_L01_P019.csproj|solutionrelative:level_03\\cpg_l01_p019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D214436-7414-416D-9A86-BC4C3CA811DB}|CSharpPlayersGuide.csproj|c:\\users\\diana\\source\\repos\\csharpplayersguide\\csharpplayersguide.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D214436-7414-416D-9A86-BC4C3CA811DB}|CSharpPlayersGuide.csproj|solutionrelative:csharpplayersguide.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D214436-7414-416D-9A86-BC4C3CA811DB}|CSharpPlayersGuide.csproj|c:\\users\\diana\\source\\repos\\csharpplayersguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D214436-7414-416D-9A86-BC4C3CA811DB}|CSharpPlayersGuide.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\Level_03\\CPG_L01_P019\\Program.cs",
+              "RelativeDocumentMoniker": "Level_03\\CPG_L01_P019\\Program.cs",
+              "ToolTip": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\Level_03\\CPG_L01_P019\\Program.cs",
+              "RelativeToolTip": "Level_03\\CPG_L01_P019\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:06:10.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSharpPlayersGuide",
+              "DocumentMoniker": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\CSharpPlayersGuide.csproj",
+              "RelativeDocumentMoniker": "CSharpPlayersGuide.csproj",
+              "ToolTip": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\CSharpPlayersGuide.csproj",
+              "RelativeToolTip": "CSharpPlayersGuide.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T00:02:54.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Diana\\source\\repos\\CSharpPlayersGuide\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:58:03.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
