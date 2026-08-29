@@ -16,29 +16,51 @@ make a FILE
 
 ---
 # 🖥️ Useful Git Bash Commands
-| Command               | What I think of it as                  |
-| --------------------- | -------------------------------------- |
-| `pwd`                 | Where am I?                            |
-| `ls`                  | What's here?                           |
-| `cd folder`           | Go into this folder                    |
-| `cd ..`               | Go up one folder                       |
-| `mkdir folder`        | Make a folder                          |
-| `touch file`          | Make a file                            |
-| `code file`           | Open the file in VS Code               |
-| `code .`              | Open this folder in VS Code            |
-| `git init`            | Turn this folder into a Git repository |
-| `git status`          | What's changed?                        |
-| `git add .`           | Stage everything                       |
-| `git commit -m "..."` | Save a snapshot                        |
-| `git remote -v`       | Show connected remotes                 |
-| `git push`            | Send commits to GitHub                 |
-| `touch`               | create file                            |
-| `mkdir`               | create directory                       |
-| `ls`                  | see what's here                        |
-| `ls -l`               | see details                            |
-| `pwd`                 | see where I am                         |
-| `mv`                  | move/rename                            |
-| `rm`                  | remove                                 |
+| Command | What I think of it as |
+|---|---|
+| `pwd` | Where am I? |
+| `ls` | What's here? |
+| `ls -l` | What's here + file details? |
+| `cd folder` | Go into this folder |
+| `cd ..` | Go up one folder |
+| `mkdir folder` | Make a directory |
+| `touch file` | Make a file |
+| `mv old new` | Move or rename something |
+| `rm file` | Remove a file |
+| `code file` | Open the file in VS Code |
+| `code .` | Open this folder in VS Code |
+| `git init` | Turn this folder into a Git repository |
+| `git status` | What's changed? |
+| `git diff` | What changed inside the files? |
+| `git add .` | Stage everything |
+| `git commit -m "..."` | Save a snapshot |
+| `git log --oneline` | Show my commit history |
+| `git remote -v` | Show connected remotes |
+| `git push` | Send my commits to GitHub |
+
+
+# 🌱 Git Mental Model
+
+| Concept | What I think of it as |
+|---|---|
+| Working directory | The files I'm currently working on |
+| Staging area | Changes I've selected for my next commit |
+| Commit | A saved snapshot of my changes |
+| Local repository | My Git history on my computer |
+| Remote / `origin` | The GitHub repository connected to mine |
+| `git push` | Send my local commits to GitHub |
+
+
+# 🧠 Things I Want to Remember
+
+- `git status` → What's happening right now?
+- `git diff` → What exactly changed?
+- `git add` → What do I want in my next snapshot?
+- `git commit` → Save that snapshot locally.
+- `git push` → Send my commits to GitHub.
+- `git status` saying **"ahead by X commits"** means I have commits locally that haven't been pushed yet.
+- `nothing to commit, working tree clean` means I have no uncommitted changes.
+- `git rm --cached` → Stop tracking something with Git, but keep it on my computer.
 
 # 📍 Navigation
 
