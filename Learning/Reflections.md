@@ -19,7 +19,6 @@ The challenges where entertining and easy to do. I wish I can make more complex 
 
 > [!TIP]
 > Be patient and learn the basics, later on you will do more complex stuff (just keep on working on it).
-> Also i can use coloured text with <span style="color:green">some *blue* text</span>.
 
 ## **2026-08-26** — Variables, Types, and Methods
 
