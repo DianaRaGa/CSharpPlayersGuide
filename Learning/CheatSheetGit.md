@@ -32,15 +32,13 @@ make a FILE
 | `git commit -m "..."` | Save a snapshot                        |
 | `git remote -v`       | Show connected remotes                 |
 | `git push`            | Send commits to GitHub                 |
-| `touch`               |create file                             |
-
-
-mkdir    → create directory
-ls       → see what's here
-ls -l    → see details
-pwd      → see where I am
-mv       → move/rename
-rm       → remove
+| `touch`               | create file                            |
+| `mkdir`               | create directory                       |
+| `ls`                  | see what's here                        |
+| `ls -l`               | see details                            |
+| `pwd`                 | see where I am                         |
+| `mv`                  | move/rename                            |
+| `rm`                  | remove                                 |
 
 # 📍 Navigation
 
