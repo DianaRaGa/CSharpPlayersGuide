@@ -149,36 +149,36 @@ it creates a hiden `.git` folder containing Git's information about the reposito
 
 # 🔎 Checking the Repository
 
-## 'git status'
+## `git status`
 
 Shows what Git currently knows about the state of the repository.
 
-git status
+`git status`
 
 # 📦 Staging Changes
 
-## git add
+## `git add`
 
 Moves changes into the staging area.
 
 Add one file:
 
-git add FileName
+`git add FileName`
 
 add a folder:
 
-git add FolderName/
+`git add FolderName/`
 
 add everything 
 
-git add ..
+`git add ..`
 
 
 # Deleting
 
-## rm
+## `rm`
 
 Delete files like
 
-rm FileName
+`rm FileName`
 
