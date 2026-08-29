@@ -2,6 +2,20 @@
 
 A quick reference based on what I have learned so far.
 
+| Concept | What I think of it as |
+|---|---|
+| `string` | Text |
+| `int` | Whole number |
+| `bool` | True/false |
+| `string name` | Declare a string variable |
+| `=` | Assign a value |
+| `Console.WriteLine()` | Print to console |
+| `//` | Comment |
+| `if` | Do something only if condition is true |
+| `else` | Otherwise |
+| `foreach` | Repeat for each item |
+| `List<T>` | Collection of items |
+
 ---
 
 ## Variables
