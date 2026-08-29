@@ -68,7 +68,7 @@ make a FILE
 
 Shows the folder I am currently in.
 
-pwd
+`pwd`
 
 
 
@@ -76,65 +76,65 @@ pwd
 
 List the files and folders in the current location
 
-ls
+`ls`
 
-## Cd
+## `Cd`
 
 Chenges the current directory
 
-cd folderName
+`cd folderName`
 
 Go back one folder:
 
- cd ..
+ `cd ..`
 
- # 📁 Creating Files and Folders
+# 📁 Creating Files and Folders
 
-## mkdir
+## `mkdir`
 
 Creates a new directory (folder).
 
-mkdir FolderName
+`mkdir FolderName`
 
 Multiple folders can be created:
 
-mkdir Level01 Level02 Level03
+`mkdir Level01 Level02 Level03`
 
-## touch
+## `touch`
 
 Creates a new empty file.
 
-touch filename.md
+`touch filename.md`
 
 Multiple files:
 
-touch README.md LearningPath.md CheatSheet.md
+`touch README.md LearningPath.md CheatSheet.md`
 
-## code
+## `code`
 
 Opens a file in Visual Studio Code.
 
-code filename
+`code filename`
 
 Open the current folder in VS Code:
 
-code .
+`code .`
 
 # 🌱 Creating a Git Repository
 
-## git init
+## `git init`
 
 Initializes Git in the current folder.
 
-git init
+`git init`
 
 This turns the current folder into a Git repository.
 
-it creates a hiden .git folder containing Git's information about the repository
+it creates a hiden `.git` folder containing Git's information about the repository
 
 # 🔎 Checking the Repository
 
-## git status
+## (git status)
 
 Shows what Git currently knows about the state of the repository.
 
