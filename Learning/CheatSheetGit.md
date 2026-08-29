@@ -134,7 +134,7 @@ it creates a hiden `.git` folder containing Git's information about the reposito
 
 # 🔎 Checking the Repository
 
-## (git status)
+## 'git status'
 
 Shows what Git currently knows about the state of the repository.
 
