@@ -5,6 +5,12 @@ and how the concepts connect to things I already know.
 
 ---
 
+## **2026-08-29** - Commenting
+
+One of the things I've noticed is the amount of notes I make and try to explain something. I do get that notes and comments on the code could help me and other to understand but I do thend to overdo them.
+
+I will keep this in mind to be clear enough in what I'm doing, but also consise enough to want to read it later on.
+
 ## **2026-08-29** - ***Base Class Library (BCL)***: Namespaces, Class, Methods, and Statements
 
 I had to re-read the begining of Lever 3 to get up to spead again with the content.
