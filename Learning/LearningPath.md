@@ -1,4 +1,4 @@
-# XP Tracker Total = 300
+# XP Tracker Total = 400 🔼 100 XP
 
 ---
 
