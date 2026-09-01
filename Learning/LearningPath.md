@@ -6,21 +6,27 @@
 
 ### **2026-08-26** 🔼 150 XP
 
-✅ Knowledge Check - C# - 25 XP
+> ✅ Knowledge Check - C# - 25 XP
 
-✅ Install Visual Studio - 75 XP
+> ✅ Install Visual Studio - 75 XP
 
-✅ Hello, World! - 50 XP
+> ✅ Hello, World! - 50 XP
+
+
 
 ### **2026-08-29** 🔼 150 XP
 
-✅ What Comes Next - 50 XP
+> ✅ What Comes Next - 50 XP
 
-✅ The Makings of a Programmer - 50 XP
+> ✅ The Makings of a Programmer - 50 XP
 
-✅ Consolas and Telim - 50 XP
+> ✅ Consolas and Telim - 50 XP
 
-☐ The Thing Namer 3000 - 100 XP
+### **2026-08-31** 🔼 100 XP
+
+> ✅ The Thing Namer 3000 - 100 XP
+
+---
 
 ☐ Knowledge Check - Variables - 25
 
