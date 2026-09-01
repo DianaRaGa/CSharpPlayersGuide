@@ -15,6 +15,8 @@ A quick reference based on what I have learned so far.
 | `else` | Otherwise |
 | `foreach` | Repeat for each item |
 | `List<T>` | Collection of items |
+| `//` | Comment out one line |
+| `/* ... */` | Comment out multiple lines |
 
 ---
 
