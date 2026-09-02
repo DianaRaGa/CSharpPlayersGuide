@@ -5,11 +5,45 @@ and how the concepts connect to things I already know.
 
 ---
 
-## **2026-09-01** - LEvel 05 Variables
+## **2026-09-01** - Level 05 Variables
 
 I started with a `mkdir` command to create the folder Level 05 and at first I used the `git mkdir Level_05` but this was wrong, is just `mkdir Level_05` and aparently it does not show a status or anything to say is done. ʕ੭·͡ᴥ·ʔ੭
 
+Completed Level 5: **Variables**. It was fun and quick!
 
+### Learned
+- Variables have a **name, type, and value**.
+- C# requires the variable's type to be declared.
+- So far I worked with `string` and `int`.
+- A variable can be declared and assigned separately or in the same statement.
+- Variable names cannot contain spaces or symbols such as `-`, `&`, `$`, etc.
+- The book uses a **box** as a mental model for a variable.
+
+### Realizations
+C# variables feel similar to Python, but C# is more explicit about the type:
+
+```csharp
+int age;
+age = 30;
+```
+
+or 
+
+```csharp
+int age = 30;
+```
+
+I also noticed that b = a gives b the value that a has at that moment. It *does not make b follow a* if a changes later.
+
+I also learned that multiple assignments can be written like: 
+
+```csharp
+a = b = c = 10;
+```
+
+The book points out that we spend more time **reading and debugging code than writing it**, which makes clear naming and consistent conventions important. Code should be understandable to humans, not just functional.
+
+Also... the colors in the C# IDE make the code look pretty. ʕ♥ᴥ♥ʔ
 
 ## **2026-08-29** - Commenting
 
