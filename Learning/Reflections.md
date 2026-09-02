@@ -5,6 +5,12 @@ and how the concepts connect to things I already know.
 
 ---
 
+## **2026-09-01** - LEvel 05 Variables
+
+I started with a `mkdir` command to create the folder Level 05 and at first I used the `git mkdir Level_05` but this was wrong, is just `mkdir Level_05` and aparently it does not show a status or anything to say is done. ʕ੭·͡ᴥ·ʔ੭
+
+
+
 ## **2026-08-29** - Commenting
 
 One of the things I've noticed is the amount of notes I make and try to explain something. I do get that notes and comments on the code could help me and other to understand but I do thend to overdo them.
