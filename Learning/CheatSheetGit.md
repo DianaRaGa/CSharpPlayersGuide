@@ -38,7 +38,7 @@ make a FILE
 | `ls -l` | What's here + file details? |
 | `cd folder` | Go into this folder |
 | `cd ..` | Go up one folder |
-| `mkdir folder` | Make a directory |
+| `mkdir folder` | Make a directory/folder |
 | `touch file` | Make a file |
 | `mv old new` | Move or rename something |
 | `rm file` | Remove a file |
