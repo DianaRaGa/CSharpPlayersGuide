@@ -17,6 +17,10 @@ A quick reference based on what I have learned so far.
 | `List<T>` | Collection of items |
 | `//` | Comment out one line |
 | `/* ... */` | Comment out multiple lines |
+| `int age = 30;` | Declare + assign |
+| `int age;` | Declare |
+| `age = 30;` | Assign |
+| `Variable` | Has a name, type, and value |
 
 ---
 
