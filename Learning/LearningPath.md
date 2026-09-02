@@ -1,4 +1,4 @@
-# XP Tracker Total = 400 🔼 100 XP
+# XP Tracker Total = 425 🔼 25 XP
 
 ---
 
@@ -12,8 +12,6 @@
 
 > ✅ Hello, World! - 50 XP
 
-
-
 ### **2026-08-29** 🔼 150 XP
 
 > ✅ What Comes Next - 50 XP
@@ -26,9 +24,12 @@
 
 > ✅ The Thing Namer 3000 - 100 XP
 
+### **2026-09-01** 🔼 25 XP
+
+> ✅ Knowledge Check - Variables - 25 XP
+
 ---
 
-☐ Knowledge Check - Variables - 25
 
 ☐ The Variable Shop - 100
 
