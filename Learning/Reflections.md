@@ -5,6 +5,10 @@ and how the concepts connect to things I already know.
 
 ---
 
+## **2026-09-01** - Level 6 The C# Type System
+
+I', currently working my way throug the level 6 of the book, doing the challenge but on pause because i have to make the code with the 14 types of variables descrived in this section.
+
 ## **2026-09-01** - Level 05 Variables
 
 I started with a `mkdir` command to create the folder Level 05 and at first I used the `git mkdir Level_05` but this was wrong, is just `mkdir Level_05` and aparently it does not show a status or anything to say is done. ʕ੭·͡ᴥ·ʔ੭
