@@ -21,6 +21,7 @@ A quick reference based on what I have learned so far.
 | `int age;` | Declare |
 | `age = 30;` | Assign |
 | `Variable` | Has a name, type, and value |
+| `.GetType()` |  To print the type of a variable in C# |
 
 ---
 
