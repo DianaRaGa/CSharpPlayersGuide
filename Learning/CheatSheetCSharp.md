@@ -130,3 +130,11 @@ string name = "Diana";
 name = 30;
 
 because 30 is an int, not a string.
+
+## 🧠 Variable Mental Model
+
+**Variable = name + type + value**
+
+```csharp
+int a = 5;
+a = 10;
