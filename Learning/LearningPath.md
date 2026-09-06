@@ -79,11 +79,40 @@
 
 ## 📊 Progress
 
+### 📚 Overall Progress
+
+`██░░░░░░░░░░░░░░░░░░` **~10%**
+
 | Part | Status | XP |
 |---|---|---:|
 | Part 1 — The Basics | 🟢 In Progress | 650 XP |
 | Part 2 | 🔒 Locked | — |
 | Part 3 | 🔒 Locked | — |
+
+# 🗺️ The Adventure
+
+```text
+                    C# PLAYER'S GUIDE
+                           │
+                           ▼
+                🟢 PART 1 — THE BASICS
+                    ████████░░░░
+                           │
+                           ▼
+                🔒 PART 2 — OOP
+                    ░░░░░░░░░░░░
+                           │
+                           ▼
+                🔒 PART 3 — ADVANCED
+                    ░░░░░░░░░░░░
+                           │
+                           ▼
+                🔒 PART 4 — ENDGAME
+                    ░░░░░░░░░░░░
+                           │
+                           ▼
+                🔒 PART 5 — BONUS
+                    ░░░░░░░░░░░░
 
 ---
 
