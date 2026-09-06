@@ -23,6 +23,41 @@ A quick reference based on what I have learned so far.
 | `Variable` | Has a name, type, and value |
 | `.GetType()` |  To print the type of a variable in C# |
 
+
+## 🧩 Variables
+
+| Concept | What I think of it as |
+|---|---|
+| `int` | Whole number |
+| `string` | Text |
+| `float` | Decimal number with less precision |
+| `double` | Decimal number with more precision |
+| `bool` | True or false |
+| Variable | A named box that holds a value |
+| Type | What kind of value the box can hold |
+| `=` | Assign a value |
+| `int age = 30;` | Declare + assign |
+| `int age;` | Declare |
+| `age = 30;` | Assign / reassign |
+
+### Number literals
+
+| Literal | Type |
+|---|---|
+| `10` | `int` |
+| `10.5` | `double` |
+| `10.5F` | `float` |
+| `10.5M` | `decimal` |
+
+`F` → tells C# the decimal literal is a `float`.
+
+### Comments
+
+| Syntax | What I think of it as |
+|---|---|
+| `//` | Comment out one line |
+| `/* ... */` | Comment out multiple lines |
+
 ---
 
 ## Variables

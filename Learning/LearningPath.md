@@ -1,4 +1,4 @@
-# XP Tracker Total = 425 ⏸️
+# XP Tracker Total = 625 🔼 200 XP
 
 ---
 
@@ -28,14 +28,16 @@
 
 ✅ Knowledge Check - Variables - 25 XP
 
-### **2026-09-03,04** ⏸️
+### **2026-09-03,04** 🔼 200 XP
 
-▶️ The Variable Shop - 100 XP
+✅ The Variable Shop - 100 XP
+
+✅ The Variable Shop - 100 XP
 
 ---
 
 
-☐ The Variable Shop - 100
+☐ 
 
 ☐ The Variable Shop Returns - 50
 

@@ -5,11 +5,19 @@ and how the concepts connect to things I already know.
 
 ---
 
-## **2026-09-03,04** - Level 6 The C# Type System
+## **2026-09-03,04,05** - Level 6 The C# Type System
 
 I', currently working my way throug the level 6 of the book, doing the challenge but on pause because i have to make the code with the 14 types of variables descrived in this section.
 
 The second day I'm doing this excercice. It has been tedious because I have to search in the syntax in the book the types described and then make the variable and I keep changing the format to get the order that I like. I'm taking my time but yes its been tedious because I also put the short description to really understand it.
+
+Completed the Variable Shop and the Variable Shop Returns challenge.
+
+### Learned
+- C# variables have a **name, type, and value**.
+- C# requires the type to be declared.
+- Decimal literals have types too: `double` by default, `float` with `F`.
+- Existing variables can be given new values without creating new variables.
 
 ## **2026-09-01** - Level 05 Variables
 
