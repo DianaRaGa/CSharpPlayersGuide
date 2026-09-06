@@ -34,12 +34,11 @@
 
 ✅ The Variable Shop - 100 XP
 
+### **2026-09-06** 🔼 25 XP
+
+✅ The Variable Shop Returns - 50 XP
+
 ---
-
-
-☐ 
-
-☐ The Variable Shop Returns - 50
 
 ☐ Knowledge Check - Type System - 25
 
