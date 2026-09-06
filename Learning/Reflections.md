@@ -4,10 +4,18 @@ Personal notes about what clicked, what confused me,
 and how the concepts connect to things I already know.
 
 ---
+## **2026-09-03,04,05** - Level 6 The C# Type System Returns ʕっ•ᴥ•ʔっ💕
+
+This level 6has been somhow easy but it took me so loooong to complete. The concepts where familiar and the variables where understandable. I don't think I'm remembering all of it and using them will requiere me 
+to serach for the types but know I know what types they are and that's something.
+
+The three challenges where fun but the firs one took me soooo long to complete. so I'm glad I finished this level.
+
+The variables are easy to follow and understandable. Eager to know how I'm going to use them.
 
 ## **2026-09-03,04,05** - Level 6 The C# Type System
 
-I', currently working my way throug the level 6 of the book, doing the challenge but on pause because i have to make the code with the 14 types of variables descrived in this section.
+I'm, currently working my way throug the level 6 of the book, doing the challenge but on pause because i have to make the code with the 14 types of variables descrived in this section.
 
 The second day I'm doing this excercice. It has been tedious because I have to search in the syntax in the book the types described and then make the variable and I keep changing the format to get the order that I like. I'm taking my time but yes its been tedious because I also put the short description to really understand it.
 
