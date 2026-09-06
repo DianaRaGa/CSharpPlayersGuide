@@ -91,7 +91,6 @@
 
 # 🗺️ The Adventure
 
-```text
                     C# PLAYER'S GUIDE
                            │
                            ▼
