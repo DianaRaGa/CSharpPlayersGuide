@@ -1,73 +1,104 @@
-# XP Tracker Total = 650 🔼 25 XP
+# 🎮 C# PLAYER'S GUIDE
+
+### 🧙‍♀️ Diana's C# Learning Quest
+
+| 🏆 XP | 📚 Part | 🔥 Streak |
+|---:|---|---:|
+| **650 XP** | Part 1 — The Basics | 🔥 6 sessions |
+
+**Level:** `01 — The Basics`
+
+**Progress**
+
+`████████████░░░░░░░░` **40%**
 
 ---
 
-## Part 1: The Basics
-
-### **2026-08-26** 🔼 150 XP
-
-✅ Knowledge Check - C# - 25 XP
-
-✅ Install Visual Studio - 75 XP
-
-✅ Hello, World! - 50 XP
-
-### **2026-08-29** 🔼 150 XP
-
-✅ What Comes Next - 50 XP
-
-✅ The Makings of a Programmer - 50 XP
-
-✅ Consolas and Telim - 50 XP
-
-### **2026-08-31** 🔼 100 XP
-
-✅ The Thing Namer 3000 - 100 XP
-
-### **2026-09-01** 🔼 25 XP
-
-✅ Knowledge Check - Variables - 25 XP
-
-### **2026-09-03,04** 🔼 200 XP
-
-✅ The Variable Shop - 100 XP
-
-✅ The Variable Shop Returns - 100 XP
-
-### **2026-09-06** 🔼 25 XP
-
-✅ Knowledge Check - Type System - 25 XP
+> 🎯 **Current Quest:** Master the C# type system  
+> 🧠 **Last Discovery:** Numeric literals have their own types  
+> 🛠️ **Current Skill:** Variables & reassignment
 
 ---
 
-☐ The Triangle Farmer - 100
+# 📖 Part 1 — The Basics
 
-☐ The Four Sisters and the Duckbear - 100
+### 📅 2026-08-26
+**+150 XP** 🔼
 
-☐ The Dominion of Kings - 100
+- [x] 🧠 Knowledge Check — C# · **25 XP**
+- [x] 🛠️ Install Visual Studio · **75 XP**
+- [x] 👋 Hello, World! · **50 XP**
 
-☐ The Defense of Consolas - 200
+> 💡 **Milestone:** First C# program successfully running!
 
-☐ Repairing the Clocktower - 100
+---
 
-☐ Watchtower - 100
+### 📅 2026-08-29
+**+150 XP** 🔼
 
-☐ Buying Inventory - 100
+- [x] 🔮 What Comes Next · **50 XP**
+- [x] 🧑‍💻 The Makings of a Programmer · **50 XP**
+- [x] 🖥️ Consolas and Telim · **50 XP**
 
-☐ Discounted Inventory - 50
+---
 
-☐ The Prototype - 100
+### 📅 2026-08-31
+**+100 XP** 🔼
 
-☐ The Magic Cannon - 100
+- [x] 🏷️ The Thing Namer 3000 · **100 XP**
 
-☐ The Replicator of D’To - 100
+> 💡 **Learned:** Comments with `//` and `/* ... */`
 
-☐ The Laws of Freach - 50
+---
 
-☐ Taking a Number - 100
+### 📅 2026-09-01
+**+25 XP** 🔼
 
-☐ Countdown - 100
+- [x] 🧠 Knowledge Check — Variables · **25 XP**
 
-☐ Knowledge Check - Memory - 25
+> 💡 **Realization:** Variables have a **name, type, and value**.
 
-☐ Hunting the Manticore - 250
+---
+
+### 📅 2026-09-03 → 09-04
+**+200 XP** 🔼
+
+- [x] 🏪 The Variable Shop · **100 XP**
+- [x] 🔄 The Variable Shop Returns · **100 XP**
+
+> 💡 **Realization:** Declaration creates the variable; assignment puts a value in it; reassignment changes that value.
+
+---
+
+### 📅 2026-09-06
+**+25 XP** 🔼
+
+- [x] 🧠 Knowledge Check — Type System · **25 XP**
+
+---
+
+## 📊 Progress
+
+| Part | Status | XP |
+|---|---|---:|
+| Part 1 — The Basics | 🟢 In Progress | 650 XP |
+| Part 2 | 🔒 Locked | — |
+| Part 3 | 🔒 Locked | — |
+
+---
+
+### 🧠 Current Focus
+
+**Variables → Types → Type System**
+
+> *Learning by doing, breaking things, figuring out why, and occasionally asking ChatGPT "WHY IS C# MAD AT ME?"* 😂
+
+---
+
+## 🗺️ What's Next?
+
+- [ ] Continue Part 1
+- [ ] Keep updating `CheatSheetCSharp.md`
+- [ ] Add meaningful realizations to `Reflections.md`
+- [ ] Commit progress to Git
+- [ ] Push progress to GitHub
