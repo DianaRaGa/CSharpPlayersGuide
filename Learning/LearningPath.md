@@ -1,4 +1,4 @@
-# XP Tracker Total = 625 🔼 200 XP
+# XP Tracker Total = 650 🔼 25 XP
 
 ---
 
@@ -32,15 +32,13 @@
 
 ✅ The Variable Shop - 100 XP
 
-✅ The Variable Shop - 100 XP
+✅ The Variable Shop Returns - 100 XP
 
 ### **2026-09-06** 🔼 25 XP
 
-✅ The Variable Shop Returns - 50 XP
+✅ Knowledge Check - Type System - 25 XP
 
 ---
-
-☐ Knowledge Check - Type System - 25
 
 ☐ The Triangle Farmer - 100
 
