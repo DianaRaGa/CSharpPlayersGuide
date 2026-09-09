@@ -4,7 +4,7 @@
 
 | 🏆 XP | 📚 Part | 🔥 Streak |
 |---:|---|---:|
-| **650 XP** | Part 1 — The Basics | 🔥 6 sessions |
+| **750 XP** | Part 1 — The Basics | 🔥 7 sessions |
 
 **Level:** `01 — The Basics`
 
@@ -14,9 +14,9 @@
 
 ---
 
-> 🎯 **Current Quest:** Master the C# type system  
-> 🧠 **Last Discovery:** Numeric literals have their own types  
-> 🛠️ **Current Skill:** Variables & reassignment
+> 🎯 **Current Quest:** Level 7 — Math  
+> 🧠 **Last Discovery:** Working with math and calculations in C#  
+> 🛠️ **Current Skill:** Math & operators
 
 ---
 
@@ -75,6 +75,11 @@
 
 - [x] 🧠 Knowledge Check — Type System · **25 XP**
 
+### 📅 2026-09-08
+**+100 XP** 🔼
+
+- [x] 🧑‍🌾 The Triangle Farmer · **100 XP**
+
 ---
 
 ## 📊 Progress
@@ -117,7 +122,7 @@
 
 ### 🧠 Current Focus
 
-**Variables → Types → Type System**
+**Variables → Types → Type System → Math**
 
 > *Learning by doing, breaking things, figuring out why, and occasionally asking ChatGPT "WHY IS C# MAD AT ME?"* 😂
 
