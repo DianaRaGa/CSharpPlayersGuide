@@ -4,6 +4,33 @@ Personal notes about what clicked, what confused me,
 and how the concepts connect to things I already know.
 
 ---
+
+## **2026-09-03,04,05** - Math & The Triangle Farmer ʕノ•ᴥ•ʔノ◕
+
+**Level 7:** The Triangle Farmer 🧑‍🌾📐
+
+### Learned
+- Math operators in C# work similarly to Python.
+- C# follows the same order of operations.
+- `Console.ReadLine()` returns a `string`.
+- `float.Parse()` converts the input into a `float`.
+
+### 💡 Realization
+Turning a math formula into code was simple:
+
+```csharp
+float TriangleArea = (TriangleBase * TriangleHeight) / 2;
+
+The interesting part was handling user input:
+
+User input → string → float.Parse() → float
+
+### 🛠️ Next
+
+Learn how to safely handle invalid user input.
+
+C# equivalent to Python's try/except → investigate TryParse.
+
 ## **2026-09-03,04,05** - Level 6 The C# Type System Returns ʕっ•ᴥ•ʔっ💕
 
 This level 6has been somhow easy but it took me so loooong to complete. The concepts where familiar and the variables where understandable. I don't think I'm remembering all of it and using them will requiere me 
