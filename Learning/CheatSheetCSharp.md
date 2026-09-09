@@ -58,6 +58,30 @@ A quick reference based on what I have learned so far.
 | `//` | Comment out one line |
 | `/* ... */` | Comment out multiple lines |
 
+## ➕ Math & Operators
+
+| Operator | What I think of it as | Example |
+|---|---|---|
+| `+` | Addition | `5 + 3` → `8` |
+| `-` | Subtraction | `5 - 3` → `2` |
+| `*` | Multiplication | `5 * 3` → `15` |
+| `/` | Division | `6 / 3` → `2` |
+
+### 🧠 Vocabulary
+
+| Term | What I think of it as |
+|---|---|
+| Operator | The symbol that tells C# what operation to perform |
+| Operand | The values the operator works on |
+| Expression | Code that produces a value |
+| Operation | The calculation being performed |
+| Compound expression | An expression containing multiple operations |
+
+Example:
+
+```csharp
+int result = 5 + 3 * 2;
+
 ---
 
 ## Variables
