@@ -4,7 +4,7 @@
 
 | 🏆 XP | 📚 Part | 🔥 Streak |
 |---:|---|---:|
-| **750 XP** | Part 1 — The Basics | 🔥 7 sessions |
+| **850 XP** | Part 1 — The Basics | 🔥 7 sessions |
 
 **Level:** `01 — The Basics`
 
@@ -15,8 +15,8 @@
 ---
 
 > 🎯 **Current Quest:** Level 7 — Math  
-> 🧠 **Last Discovery:** Working with math and calculations in C#  
-> 🛠️ **Current Skill:** Math & operators
+> 🧠 **Last Discovery:** Using calculations and the remainder operator  
+> 🛠️ **Current Skill:** Math, operators & user input
 
 ---
 
@@ -80,6 +80,21 @@
 
 - [x] 🧑‍🌾 The Triangle Farmer · **100 XP**
 
+
+---
+
+### 📅 2026-09-09
+
+**+100 XP** 🔼
+
+- [x] 🥚 The Four Sisters and the Duckbear · **100 XP**
+
+> 💡 **Learned:** Using `%` to find the remainder and `int.Parse()` to convert user input into an integer.
+
+> 🎨 **Bonus Discovery:** `Console.WriteLine(@"...")` can be used to print multiline text and ASCII art.
+
+> 🧠 **Realization:** Calculations in C# feel familiar because the basic math and order of operations are similar to Python.
+
 ---
 
 ## 📊 Progress
@@ -90,7 +105,7 @@
 
 | Part | Status | XP |
 |---|---|---:|
-| Part 1 — The Basics | 🟢 In Progress | 650 XP |
+| Part 1 — The Basics | 🟢 In Progress | 850 XP |
 | Part 2 | 🔒 Locked | — |
 | Part 3 | 🔒 Locked | — |
 
@@ -122,7 +137,7 @@
 
 ### 🧠 Current Focus
 
-**Variables → Types → Type System → Math**
+**Variables → Types → Type System → Math → User Input**
 
 > *Learning by doing, breaking things, figuring out why, and occasionally asking ChatGPT "WHY IS C# MAD AT ME?"* 😂
 

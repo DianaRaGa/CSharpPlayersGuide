@@ -15,6 +15,8 @@ I also used `Console.WriteLine(@"...")` to get the multiline ASCII art into the 
 
 I really enjoy using calculations, and I definitely want to keep working with them. But I do want to understand how this fits into my work, since at my company, calculations are usually sent to the server through an API.
 
+Also side note, I have to remember to use camelCase because aparrently it's a C# thing ʕᵔᴥᵔʔ.
+
 ## **2026-09-08** - Math & The Triangle Farmer ʕノ•ᴥ•ʔノ◕
 
 **Level 7:** The Triangle Farmer 🧑‍🌾📐
