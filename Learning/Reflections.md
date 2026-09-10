@@ -5,7 +5,17 @@ and how the concepts connect to things I already know.
 
 ---
 
-## **2026-09-03,04,05** - Math & The Triangle Farmer ʕノ•ᴥ•ʔノ◕
+## **2026-09-09** - Chocolate Eggs? Chocolate Chickens? A Duckbear That Eats Chocolate Eggs? ʕ⊙ᴥ⊙ʔ
+
+Today's Level 7 challenge was **The Four Sisters and the Duckbear**. It was fun and easy, and I had some fun playing around with ASCII art and printing it using `Console.WriteLine()`.
+
+I put the `Parse()` method to use (I believe that's what it's called?) to convert the input into an integer. I still don't know how to make the input safer. I could just search for it and figure it out, but I want to take this slow and steady so I can keep going without giving it my maximum effort every time and then not wanting to come back to it.
+
+I also used `Console.WriteLine(@"...")` to get the multiline ASCII art into the console. Very nice and handy trick!
+
+I really enjoy using calculations, and I definitely want to keep working with them. But I do want to understand how this fits into my work, since at my company, calculations are usually sent to the server through an API.
+
+## **2026-09-08** - Math & The Triangle Farmer ʕノ•ᴥ•ʔノ◕
 
 **Level 7:** The Triangle Farmer 🧑‍🌾📐
 
@@ -19,7 +29,7 @@ and how the concepts connect to things I already know.
 Turning a math formula into code was simple:
 
 ```csharp
-float TriangleArea = (TriangleBase * TriangleHeight) / 2;
+float TriangleArea = (TriangleBase * TriangleHeight) / 2;```
 
 The interesting part was handling user input:
 

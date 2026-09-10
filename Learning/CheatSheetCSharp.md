@@ -23,6 +23,15 @@ A quick reference based on what I have learned so far.
 | `Variable` | Has a name, type, and value |
 | `.GetType()` |  To print the type of a variable in C# |
 
+### C# Tricks Learned
+
+| What I want to do | C# | What I think of it as |
+|---|---|---|
+| Get input from the user | `Console.ReadLine()` | Ask the user for something |
+| Convert text to an integer | `int.Parse()` | Turn the user's text into a number |
+| Get the remainder | `%` | What is left after division |
+| Print multiline text | `Console.WriteLine(@"...")` | Print a block of text exactly as written |
+| Use a verbatim string | `@"text"` | Treat `\` and line breaks more literally |
 
 ## 🧩 Variables
 
