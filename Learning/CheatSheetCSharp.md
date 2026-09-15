@@ -75,6 +75,12 @@ A quick reference based on what I have learned so far.
 | `-` | Subtraction | `5 - 3` → `2` |
 | `*` | Multiplication | `5 * 3` → `15` |
 | `/` | Division | `6 / 3` → `2` |
+| `%` | Remainder after division | `5 % 2` → `1` |
+| `+=` | Add and assign | `x += 1` → `x = x + 1` |
+| `-=` | Subtract and assign | `x -= 1` → `x = x - 1` |
+| `*=` | Multiply and assign | `x *= 2` → `x = x * 2` |
+| `/=` | Divide and assign | `x /= 2` → `x = x / 2` |
+| `%=` | Remainder and assign | `x %= 2` → `x = x % 2` |
 
 ### 🧠 Vocabulary
 
