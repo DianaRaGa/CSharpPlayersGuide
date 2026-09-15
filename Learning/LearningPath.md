@@ -4,7 +4,7 @@
 
 | 🏆 XP | 📚 Part | 🔥 Streak |
 |---:|---|---:|
-| **850 XP** | Part 1 — The Basics | 🔥 7 sessions |
+| **900 XP** | Part 1 — The Basics | 🔥 8 sessions |
 
 **Level:** `01 — The Basics`
 
@@ -14,9 +14,9 @@
 
 ---
 
-> 🎯 **Current Quest:** Level 7 — Math  
-> 🧠 **Last Discovery:** Using calculations and the remainder operator  
-> 🛠️ **Current Skill:** Math, operators & user input
+> 🎯 **Current Quest:** Level 8 — Methods? 
+> 🧠 **Last Discovery:** Working with multiple variables and calculating totals
+> 🛠️ **Current Skill:** Variables, operators & user input
 
 ---
 
@@ -97,6 +97,20 @@
 
 ---
 
+### 📅 2026-09-14
+
+**+100 XP** 🔼
+
+- [x] 👑 The Dominion of Kings · **100 XP**
+
+> 💡 **Learned:** Combining user input, variables, arithmetic operators, and calculations to solve a larger problem.
+
+> 🧠 **Realization:** I wanted to make the program more flexible using lists, dictionaries, and loops like I would in Python, but I decided to use the C# tools I have learned so far instead of overcomplicating it.
+
+> 🎯 **Takeaway:** Right now, finishing simple programs and learning consistently is more valuable than trying to make every program perfect.
+
+---
+
 ## 📊 Progress
 
 ### 📚 Overall Progress
@@ -137,7 +151,7 @@
 
 ### 🧠 Current Focus
 
-**Variables → Types → Type System → Math → User Input**
+**Variables → Types → Math → User Input → Calculations**
 
 > *Learning by doing, breaking things, figuring out why, and occasionally asking ChatGPT "WHY IS C# MAD AT ME?"* 😂
 
@@ -148,5 +162,5 @@
 - [ ] Continue Part 1
 - [ ] Keep updating `CheatSheetCSharp.md`
 - [ ] Add meaningful realizations to `Reflections.md`
-- [ ] Commit progress to Git
+- [x] Commit progress to Git
 - [ ] Push progress to GitHub
