@@ -5,6 +5,18 @@ and how the concepts connect to things I already know.
 
 ---
 
+## **2026-09-09** - 🏰 Calculating for the Kings (๑ᵔ⤙ᵔ๑)
+
+I created a program to calculate the points for the kingdoms of three kings, just like the book asked. It ended up being... quite a long piece of code. 😂
+
+While working on it, I kept thinking about how I would do this in Python: use a list or dictionary, loop through the kings, ask how many I wanted to calculate, and avoid hardcoding everything. But instead of getting stuck trying to make this version “perfect,” I decided to take the ride and use the tools I have learned from the book so far.
+
+It was actually a good reminder that **I don't need to optimize everything before I understand the basics.** Making these small programs simple enough that I can finish them and come back the next day is helping me keep learning consistently instead of spending hours trying to make every little program amazing.
+
+I also learned about updating variables and the increment/decrement operators. So far, C# feels pretty familiar coming from Python, which is nice. I probably should start refreshing my Python too. 😅
+
+**Takeaway:** It's okay if my C# code isn't the most elegant solution yet. Right now, I'm learning how C# thinks—and that's more important than making every program perfect.
+
 ## **2026-09-09** - Chocolate Eggs? Chocolate Chickens? A Duckbear That Eats Chocolate Eggs? ʕ⊙ᴥ⊙ʔ
 
 Today's Level 7 challenge was **The Four Sisters and the Duckbear**. It was fun and easy, and I had some fun playing around with ASCII art and printing it using `Console.WriteLine()`.
