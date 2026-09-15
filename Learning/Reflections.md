@@ -31,7 +31,8 @@ Also side note, I have to remember to use camelCase because aparrently it's a C#
 Turning a math formula into code was simple:
 
 ```csharp
-float TriangleArea = (TriangleBase * TriangleHeight) / 2;```
+float TriangleArea = (TriangleBase * TriangleHeight) / 2;
+```
 
 The interesting part was handling user input:
 
