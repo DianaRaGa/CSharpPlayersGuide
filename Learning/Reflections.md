@@ -5,6 +5,64 @@ and how the concepts connect to things I already know.
 
 ---
 
+## **2026-09-16**🧙‍♀️ — Increment, Casting & Math, Level 7 DONE
+
+Today was mostly about understanding how C# handles numbers and types.
+
+### ➕ Increment & Decrement
+`++` and `--` are basically tiny shortcuts for changing a value by 1.
+
+The only important plot twist is **prefix vs. postfix**:
+
+- `++x` → change first, then use it
+- `x++` → use it first, then change it
+
+Side quest energy. 🗡️  
+Useful to recognize, but not something I need to obsess over yet.
+
+### 🔄 Casting
+This one made C# feel *very* different from Python.
+
+C# really wants me to know **what type of value I'm working with**.
+
+- **Implicit casting** → C# can safely convert it for me.
+- **Explicit casting** → I have to tell C# to do it.
+
+The big lesson:  
+> ⚠️ Know your types before doing calculations.
+
+Otherwise, I might expect `0.2` and get `0` because integer division happened instead.
+
+### 💥 Overflow & Round-off
+Another reminder that computers have limits.
+
+Different numeric types have different ranges and precision, so I need to keep an eye on:
+
+- values getting too large → **overflow**
+- decimal precision → **round-off errors**
+
+Not something to fear, just something to remember exists.
+
+### 🧮 Math & MathF
+These were actually pretty fun to discover.
+
+`Math` and `MathF` give me ready-made mathematical tools, including things like powers, roots, rounding and trigonometry.
+
+For web development, I probably won't be summoning trigonometry thoug. 
+
+But the fact that these are useful for things like game development made the topic much more interesting.
+
+### 🧠 Today's takeaway
+
+C# is making me more conscious of **what kind of data I'm actually working with**.
+
+Python often lets me just *do the thing*.  
+C# sometimes makes me stop and say:
+
+> "Wait... what TYPE of thing am I doing this with?" 👀
+
+And honestly, I think that's starting to make sense.
+
 ## **2026-09-09** - 🏰 Calculating for the Kings (๑ᵔ⤙ᵔ๑)
 
 I created a program to calculate the points for the kingdoms of three kings, just like the book asked. It ended up being... quite a long piece of code. 😂
