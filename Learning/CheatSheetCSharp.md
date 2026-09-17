@@ -81,6 +81,8 @@ A quick reference based on what I have learned so far.
 | `*=` | Multiply and assign | `x *= 2` → `x = x * 2` |
 | `/=` | Divide and assign | `x /= 2` → `x = x / 2` |
 | `%=` | Remainder and assign | `x %= 2` → `x = x % 2` |
+| `++` | Add 1 | `x++` |
+| `--` | Subtract 1 | `x--` |
 
 ### 🧠 Vocabulary
 
