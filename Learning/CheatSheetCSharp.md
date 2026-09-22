@@ -94,6 +94,45 @@ A quick reference based on what I have learned so far.
 | Operation | The calculation being performed |
 | Compound expression | An expression containing multiple operations |
 
+
+### ⌨️ Console Input & Output
+
+| C# | What I think it as |
+| Console.WriteLine() | Print something and move to the next line |
+| Console.Write() | Print something and stay on the same line |
+| Console.ReadLine() | Get a line of text from the user |
+| Console.ReadKey() | Wait for the user to press a key |
+| Console.Clear() | Clear everything currently displayed |
+| Console.Beep() | Make the computer beep |
+
+### 🎨 Console Appearance
+
+| C# | What I think it as |
+| Console.BackgroundColor | Change the console background color |
+| Console.ForegroundColor | Change the text color |
+| Console.Title | Change the console window title |
+
+### 🔤 Escape Sequences
+
+| Escape sequence | What I think of it as        |
+| --------------- | ---------------------------- |
+| `\n`            | New line                     |
+| `\t`            | Tab                          |
+| `\r`            | Carriage return              |
+| `\\`            | Backslash                    |
+| `\"`            | Double quote inside a string |
+| `\'`            | Single quote inside a string |
+
+
+### 🪄 Things with Strings
+
+| Syntax    | What I think of it as                            |
+| --------- | ------------------------------------------------ |
+| `@"text"` | Treat backslashes and line breaks more literally |
+| `Console.WriteLine($"My name is {name} and I am {age}.");` | It lets me make a single line more simple to display | 
+
+---
+
 Example:
 
 ```csharp
