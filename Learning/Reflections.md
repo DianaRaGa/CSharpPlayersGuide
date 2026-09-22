@@ -5,6 +5,18 @@ and how the concepts connect to things I already know.
 
 ---
 
+## **2026-09-21** - I thought I knew you, Console ʕʘ‿ʘʔ
+
+Today I finished the Level 8 — Console 2.0 section of the book. I think this level was packed with information in a pretty short section, so there is a lot to unpack.
+
+I got to learn more useful tricks for working with the console and, honestly, how to have a little more fun with it. Things like making it beep, changing its colors, formatting text, and printing things in more useful ways.
+
+I do feel like I'm doing a good job of finding the time to learn all of this. However, for my current role, the level of C# I need is more focused on creating web pages, APIs, and all of that. I like having the background and understanding the basics, but I do find myself wondering: **How does all of this eventually turn into a full-on web page or an API?** I think about that a lot.
+
+But I'll keep following this learning path and see what I can accomplish by the end of the book, because it definitely seems like there is still a lot to uncover.
+
+(I'm only at Level 8 ʕ´• ᴥ•̥`ʔ)
+
 ## **2026-09-16**🧙‍♀️ — Increment, Casting & Math, Level 7 DONE
 
 Today was mostly about understanding how C# handles numbers and types.
