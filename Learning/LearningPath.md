@@ -4,7 +4,7 @@
 
 | 🏆 XP | 📚 Part | 🔥 Streak |
 |---:|---|---:|
-| **900 XP** | Part 1 — The Basics | 🔥 9 sessions |
+| **1,100 XP** | Part 1 — The Basics | 🔥 10 sessions |
 
 **Level:** `01 — The Basics`
 
@@ -116,6 +116,15 @@
 No challenge today.  
 
 Just collecting lore. 📚✨
+
+### 📅 2026-10-19
+
+**+200 XP** 🔼
+
+- [x] 🏰 The Defense of Consolas · **200 XP**
+
+> 💡 **Learned:** Using the console in different ways, making different sounds, looks and even changing the window title.
+
 
 ---
 
