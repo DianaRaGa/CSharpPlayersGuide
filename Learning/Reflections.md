@@ -4,6 +4,16 @@ Personal notes about what clicked, what confused me,
 and how the concepts connect to things I already know.
 
 ---
+## **2026-10-19** - I`m Back!!! ʕ•ᴥ–ʔつ♡
+
+So it`s been a long time since i was here. I was taking time off from this because i was getting a little overwhelm of all of the things i have to do and not so much time to do them.
+
+Last time I left this at level 8 with the defense of consolas. That was a fun code to write to learn all of the different thigns to do in the consolas, the colour, the showing code, even making it beep!
+
+I hope I can keep it up at least to funish all of the books I have. Even I change the layout of the office just to get in track on this and get inspired ᕦʕ •ᴥ•ʔᕤ.
+
+To be honest I dont think I will be using most of the console tricks I learned here but it was a fun little code to write (and I took it a little liking with the caslte and all of it 𐔌՞˶-`ﻌ-˶՞𐦯)
+
 
 ## **2026-09-21** - I thought I knew you, Console ʕʘ‿ʘʔ
 
