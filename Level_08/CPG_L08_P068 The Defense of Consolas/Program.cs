@@ -52,22 +52,29 @@ Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine($"Row:{TargetRow}, Column: {TargetColumn - 1}");
 
 Console.BackgroundColor = ConsoleColor.Black;
+Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("Squad member 2");
 Console.BackgroundColor = ConsoleColor.DarkYellow;
+Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine($"Row:{TargetRow}, Column: {TargetColumn + 1}");
 
 Console.BackgroundColor = ConsoleColor.Black;
+Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("Squad member 3");
 Console.BackgroundColor = ConsoleColor.DarkYellow;
+Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine($"Row:{TargetRow + 1}, Column: {TargetColumn}");
 
 Console.BackgroundColor = ConsoleColor.Black;
+Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("Squad member 4");
 Console.BackgroundColor = ConsoleColor.DarkYellow;
+Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine($"Row:{TargetRow - 1}, Column: {TargetColumn}");
 
 
 Console.BackgroundColor = ConsoleColor.Black;
+Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine(@" 
 
 INCOMING ATTACK 
