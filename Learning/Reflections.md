@@ -4,6 +4,16 @@ Personal notes about what clicked, what confused me,
 and how the concepts connect to things I already know.
 
 ---
+## **2026-10-20** - Decision Making ૮₍ ˃ ⤙ ˂ ₎ა
+
+After I took a little of time off learning I decided to get back on track for the C# players guide`s book and made some progress on level 9.
+
+some of the things I saw where things I knew from previus working with python like the if/else statments, the relational operators and so on, much of them where the same and applied the same.
+
+New things I got from are the block statemetns and how indentation is essential to understand what is happening but also to visually make it clear how to use it in this type of situations. I`m not sure if im making sense but the C# code makes me think of it as a clear indicator of structured code and how to use it.
+
+Next session I will be doing some challenge to put into use all of this.
+
 ## **2026-10-19** - I`m Back!!! ʕ•ᴥ–ʔつ♡
 
 So it`s been a long time since i was here. I was taking time off from this because i was getting a little overwhelm of all of the things i have to do and not so much time to do them.
