@@ -4,7 +4,7 @@
 
 | 🏆 XP | 📚 Part | 🔥 Streak |
 |---:|---|---:|
-| **1,100 XP** | Part 1 — The Basics | 🔥 10 sessions |
+| **1,100 XP** | Part 1 — The Basics | 🔥 11 sessions |
 
 **Level:** `01 — The Basics`
 
