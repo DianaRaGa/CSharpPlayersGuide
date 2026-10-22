@@ -4,7 +4,7 @@
 
 | 🏆 XP | 📚 Part | 🔥 Streak |
 |---:|---|---:|
-| **1,100 XP** | Part 1 — The Basics | 🔥 11 sessions |
+| **1,200 XP** | Part 1 — The Basics | 🔥 12 sessions |
 
 **Level:** `01 — The Basics`
 
@@ -124,6 +124,14 @@ Just collecting lore. 📚✨
 - [x] 🏰 The Defense of Consolas · **200 XP**
 
 > 💡 **Learned:** Using the console in different ways, making different sounds, looks and even changing the window title.
+
+### 📅 2026-10-21
+
+**+100 XP** 🔼
+
+- [x] 🕰️ Repairing the Clocktower · **100 XP**
+
+> 💡 **Learned:** Using the if and else staement. Same syntax from other programing lenguages.
 
 
 ---
