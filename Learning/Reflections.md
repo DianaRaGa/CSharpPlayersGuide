@@ -4,6 +4,12 @@ Personal notes about what clicked, what confused me,
 and how the concepts connect to things I already know.
 
 ---
+## **2026-10-21** - what if... ʕ˘▾˘ʔ
+
+I finished the next challenge of reparing the clock. Using the if and else statment here has been similar to other experiences with python or excel (I guess is power query). 
+
+For the app per se I guess I sort of developed a prefered structure of presenting the app then the input of varialbes and then doing the code its supose to do, I like the ANCII art I use and will keep this structure because for know it makes the more sense.
+
 ## **2026-10-20** - Decision Making ૮₍ ˃ ⤙ ˂ ₎ა
 
 After I took a little of time off learning I decided to get back on track for the C# players guide`s book and made some progress on level 9.
