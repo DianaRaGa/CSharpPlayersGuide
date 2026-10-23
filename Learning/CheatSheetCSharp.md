@@ -33,6 +33,20 @@ A quick reference based on what I have learned so far.
 | Print multiline text | `Console.WriteLine(@"...")` | Print a block of text exactly as written |
 | Use a verbatim string | `@"text"` | Treat `\` and line breaks more literally |
 
+
+## Decision Making 
+
+| Command | operator |
+| == | equality |
+| != | inequality|
+| < | less than |
+| > | greater than |
+| <= | grater than or equal |
+| >= | grater than or equal |
+| ! | not |
+| && | and |
+| || | or |
+
 ## 🧩 Variables
 
 | Concept | What I think of it as |

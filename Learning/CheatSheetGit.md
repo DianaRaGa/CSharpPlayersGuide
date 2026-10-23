@@ -31,19 +31,6 @@ make a FILE
 
 ---
 
-# Decision Making 
-
-| Command | operator |
-| == | equality |
-| != | inequality|
-| < | less than |
-| > | greater than |
-| <= | grater than or equal |
-| >= | grater than or equal |
-| ! | not |
-| && | and |
-| || | or |
-
 # 🖥️ Useful Git Bash Commands
 | Command | What I think of it as |
 |---|---|
