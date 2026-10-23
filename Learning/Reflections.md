@@ -4,6 +4,12 @@ Personal notes about what clicked, what confused me,
 and how the concepts connect to things I already know.
 
 ---
+## **2026-10-21** - MAking progress ʕ ꈍᴥꈍʔ
+
+Learning the logical operators and nesting if statemetns today. Noting to comment other thatn i leaned the && and || opeartors (and and or respectibly). 
+
+I used them before so I get how this works but is interesting to learn about lazy evaluations (prioritizing the evaluation first so not waste compute time on the second). And also a good practice to not overnest the if statements.
+
 ## **2026-10-21** - what if... ʕ˘▾˘ʔ
 
 I finished the next challenge of reparing the clock. Using the if and else statment here has been similar to other experiences with python or excel (I guess is power query). 
