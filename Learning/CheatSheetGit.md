@@ -175,11 +175,34 @@ add everything
 `git add ..`
 
 
-# Deleting
+# 🗑️ Deleting
 
 ## `rm`
 
-Delete files like
+**Delete files**
 
-`rm FileName`
+`rm FileName.extention`
 
+**Delete Folder**
+
+`rm -r foldername`
+
+**Delete an empty folder**
+
+`rmdir foldername`
+
+**Delete a file or folder from Git**
+
+| Command |What it does|
+|rm file.tx|Deletes the file from your computer. Git detects the deletion|
+|git rm fike.txt|Deletes the file and stages the deletion for your next commit|
+|git rm -r folder/|Deletes the folder and stages the deletion of its tracked contents|
+
+> [!TIP] **`rm` and `git rm` difference**
+> - rm = "I deleted something from my computer."
+> - git rm = "I deleted something from my computer AND I want Git to prepare that deletion for my next commit."
+> - git commit = "Save the staged changes as a new snapshot in my project's history."
+
+>One important detail: Neither rm nor git rm deletes the file from GitHub immediately. The deletion reaches GitHub only after you commit and push it.
+
+>And that's the beauty of Git: you can delete something from your working directory without immediately changing your project's recorded history.
