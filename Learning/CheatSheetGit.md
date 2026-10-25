@@ -204,5 +204,7 @@ add everything
 > - rm = "I deleted something from my computer."
 > - git rm = "I deleted something from my computer AND I want Git to prepare that deletion for my next commit."
 > - git commit = "Save the staged changes as a new snapshot in my project's history."
+
+> [!IMPORTANT]
 > One important detail: Neither rm nor git rm deletes the file from GitHub immediately. The deletion reaches GitHub only after you commit and push it.
 > And that's the beauty of Git: you can delete something from your working directory without immediately changing your project's recorded history.
