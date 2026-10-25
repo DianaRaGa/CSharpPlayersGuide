@@ -198,7 +198,8 @@ add everything
 |git rm fike.txt|Deletes the file and stages the deletion for your next commit|
 |git rm -r folder/|Deletes the folder and stages the deletion of its tracked contents|
 
-> [!TIP] **`rm` and `git rm` difference**
+> [!TIP] 
+> **`rm` and `git rm` difference**
 > - rm = "I deleted something from my computer."
 > - git rm = "I deleted something from my computer AND I want Git to prepare that deletion for my next commit."
 > - git commit = "Save the staged changes as a new snapshot in my project's history."
