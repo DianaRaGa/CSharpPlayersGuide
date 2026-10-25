@@ -194,6 +194,7 @@ add everything
 **Delete a file or folder from Git**
 
 | Command | What it does |
+|---|---|
 | rm file.tx | Deletes the file from your computer. Git detects the deletion |
 | git rm fike.txt | Deletes the file and stages the deletion for your next commit |
 | git rm -r folder/ | Deletes the folder and stages the deletion of its tracked contents |
