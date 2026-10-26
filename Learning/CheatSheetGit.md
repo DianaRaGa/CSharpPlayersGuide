@@ -53,6 +53,7 @@ make a FILE
 | `git log --oneline` | Show my commit history |
 | `git remote -v` | Show connected remotes |
 | `git push` | Send my commits to GitHub |
+| `echo`| Prints text to the terminal |
 
 
 # 🌱 Git Mental Model
@@ -136,6 +137,33 @@ Open the current folder in VS Code:
 
 `code .`
 
+## `echo`
+
+`echo`prints text in the Git Bash terminal but it can also redirect that output to a file with the `>` symbol.
+
+`echo "Hello Git!" > test.txt`
+
+| Part | Meaning | 
+| --- | --- |
+| `echo` | Print some text |
+| "Hello Git!" | The text to print |
+| > | Redirect the output into a file |
+| test.txt | The destination file |
+
+> [!TIP]
+> To see the contents use `cat test.txt` and it displays the content of the file in the git bash terminal.
+
+> [!NOTE]
+> You can use > or >>. > Creates or everwrites a file. >> creates a file if needed, or appends text to the end of an existing file.
+
+## Difference between `echo`, `touch`, and `mkdir`
+
+`mkdir` creates a directory.
+
+`touch` creates an empty file if it doesn't exist.
+
+`echo` prints text, or creates a file with text when combined with >.
+
 # 🌱 Creating a Git Repository
 
 ## `git init`
@@ -208,3 +236,4 @@ add everything
 > [!IMPORTANT]
 > One important detail: Neither `rm` nor `git rm` deletes the file from GitHub immediately. The deletion reaches GitHub only after you commit and push it.
 > And that's the beauty of Git: you can delete something from your working directory without immediately changing your project's recorded history.
+
